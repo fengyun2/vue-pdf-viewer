@@ -1,24 +1,8 @@
 # vue-pdf-viewer
 
-## Project setup
-```
-yarn install
-```
+vue中使用PDF.js预览文件实践
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 参考文档
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. [详细|vue中使用PDF.js预览文件实践](https://juejin.cn/post/7090061215057051679)
+2. [使用Vue3+PDF.js实现PDF预览功能](https://www.jb51.net/article/270869.htm)
